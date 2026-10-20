@@ -18,10 +18,10 @@
     <ClCompile Include="sem_7_lab_1.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\task1_series.cpp">
+    <ClCompile Include="task1_series.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\src\task2_matrix.cpp">
+    <ClCompile Include="task2_matrix.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
